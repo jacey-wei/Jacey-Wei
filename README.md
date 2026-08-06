@@ -2,7 +2,7 @@
 
 **中文** · [English](README.en.md)
 
-我在用 AI 和 vibe coding，把脑子里那些有点古怪、但真的想用的产品做出来。对我来说，代码不是终点，而是把一个念头变成真实体验的媒介。
+我做小而美的产品和skill。我没有工程背景，也不会写一行代码，通过 AI 和 vibe coding，我把古怪但真的想法做成了产品。
 
 ---
 
@@ -10,7 +10,7 @@
 
 把没做的事，养成一只怪物。
 
-输入一项正在拖延的待办，它会孵化成一只属于你的怪物。怪物会随着真实馆龄慢慢发生变化；事情完成后，它会转正进入档案柜，并留下自己的 3:4 怪物档案。
+输入一项待办，它会孵化成一只属于你的黏土怪物。怪物随着真实馆龄慢慢变怪变丑；事情完成后，它会转正进入档案柜，并留下自己的转正档案。
 
 🌐 [**进入拖延博物馆**](https://procrastination-museum-mutation-quota.janettapickettjjo.chatgpt.site) · 🏛️ [**查看项目源码**](https://github.com/Jacey-Wei/Procrastination-museum)
 
