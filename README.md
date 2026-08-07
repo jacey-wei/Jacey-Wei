@@ -10,7 +10,7 @@
 
 把没做的事，养成一只怪物。
 
-输入一项待办，它会孵化成一只属于你的黏土怪物。怪物随着真实馆龄慢慢变怪变丑；事情完成后，它会转正进入档案柜，并留下转正档案。
+输入一项待办，它会孵化成一只属于你的黏土怪物。怪物随着真实馆龄慢慢变怪；事情完成后，它会转正进入档案柜，并留下转正档案。
 
 🌐 [**进入拖延博物馆**](https://procrastination-museum-mutation-quota.janettapickettjjo.chatgpt.site) · 🏛️ [**查看项目源码**](https://github.com/Jacey-Wei/Procrastination-museum)
 
