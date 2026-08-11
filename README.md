@@ -26,6 +26,12 @@
 
 ---
 
+## 🧩 Skills
+
+🎨 [**Generate Todo Monster / 待办怪物生成器**](https://github.com/jacey-wei/generate-todo-monster) — 把任何未完成事项稳定翻译成原创 3D 黏土怪物。安装后，只要告诉 Agent“生成待办怪物：写周报”即可使用。
+
+---
+
 ## 🧪 我正在探索
 
 - 把 AI 从聊天框变成真正可以使用和分享的产品
