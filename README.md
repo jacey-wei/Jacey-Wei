@@ -24,7 +24,7 @@
 
 🏛️ [**Procrastination Museum / 拖延博物馆**](https://github.com/Jacey-Wei/Procrastination-museum) — 一个把拖延待办孵化成黏土怪物的开源互动博物馆。包含服务端图像生成、本机馆藏、时间变异、转正档案与每日巡馆报告。
 
-🎨 [**dsh-image-skin / DeepSeek Harness 图片皮肤**](https://github.com/jacey-wei/dsh-image-skin) — 上传一张图片，自动提取色调并生成适配 DeepSeek Harness 的背景、语义配色与毛玻璃皮肤；保留原有界面布局和字号，图片仅保存在本地浏览器。
+🎨 [**Dsh Image Skin / DeepSeek Harness 图片皮肤**](https://github.com/jacey-wei/dsh-image-skin) — 上传一张图片，自动提取色调并生成适配 DeepSeek Harness 的背景、语义配色与毛玻璃皮肤；保留原有界面布局和字号，图片仅保存在本地浏览器。
 
 ---
 
